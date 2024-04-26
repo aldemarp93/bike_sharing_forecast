@@ -16,7 +16,4 @@ The Streamlit App contains three tabs:
 ![predict_users_dc](https://github.com/aldemarp93/bike_sharing_forecast/assets/131469036/f2f1ab6a-86fa-4cde-9120-978b9dcbee59)
 
 ## Instructions
-
-
-
-  
+Run the following command to run the web app: `streamlit run washington_bike_sharing_app.py`
