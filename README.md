@@ -16,7 +16,7 @@ Users Forecast for Washington DC Bike Sharing programm using Machine Learning mo
 
 ![predict_users_dc](https://github.com/aldemarp93/bike_sharing_forecast/assets/131469036/f2f1ab6a-86fa-4cde-9120-978b9dcbee59)
 
-### There is an additional notebook called model_construction where you an find the Data Exploration Analysis and the construction of the models:
+### There is an additional jupyter notebook called model_construction.ipynb where you an find the Data Exploration Analysis and the construction of the models:
 - Linear Regression
 - Decision Tree
 - XGBoost
